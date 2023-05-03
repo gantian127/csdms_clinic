@@ -7,7 +7,7 @@ for Earth Surface Processes modeling. You can run this notebook either on the CS
 
 ### Method 1: Use the CSDMS JupyterHub
 - All the annual meeting participants have a user account on the CSDMS JupyterHub.
-- Click on **[this link](https://lab.openearthscape.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2F%2Fgantian127%2Fcsdms_clinic&urlpath=lab%2Ftree%2Fcsdms_workshop%3Fautodecode&branch=master)**.
+- Click on **[this link](https://lab.openearthscape.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fgantian127%2Fcsdms_clinic&urlpath=lab%2Ftree%2Fcsdms_clinic%2Fdemo.ipynb%3Fautodecode&branch=master)**.
 It will lead you to the login page (see figure below). After you provide the account info, the demo notebook will be loaded on the CSDMS JupyterHub.
 - Select the **"CSDMS" kernel** before running the notebook.
 
