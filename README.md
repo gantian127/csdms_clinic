@@ -16,7 +16,7 @@ It will lead you to the login page (see figure below). After you provide the acc
 ### Method 2: Use Local PC
 - Clone the workshop repository to the local PC.
 ```
-$ git clone https://github.com/gantian127/csdms_workshop
+$ git clone https://github.com/gantian127/csdms_clinic
 $ cd csdms_workshop
 ```
 
