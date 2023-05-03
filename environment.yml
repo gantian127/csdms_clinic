@@ -1,0 +1,14 @@
+name: csdms_clinic
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9
+  - bmi-geotiff
+  - bmi-topography
+  - imageio>=2.19.1
+  - imageio-ffmpeg
+  - jupyter
+  - landlab>=2.6
+  - matplotlib
+  - numpy
+  - tqdm
